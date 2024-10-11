@@ -1,4 +1,4 @@
-#!/usr/bin/pyhton3
+#!/usr/bin/env python3
 """File to define and annotaate variables."""
 import typing
 
