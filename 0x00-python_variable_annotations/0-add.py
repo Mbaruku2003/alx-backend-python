@@ -4,4 +4,6 @@ import typing
 
 
 def add(a: float, b: float) -> float:
+    """ The function will return an added float."""
+
     return a + b
