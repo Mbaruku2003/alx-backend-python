@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """annotate prameters and return values with appropriate types."""
 from typing import List, Tuple, Iterable, Sequence
 
