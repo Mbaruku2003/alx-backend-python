@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 takes a float n as arguenment and returns  the floor of the float.
 """
