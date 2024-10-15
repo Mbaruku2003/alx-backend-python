@@ -6,8 +6,8 @@ import asyncio
 
 
 async def async_generator() -> AsyncGenerator[float, None]:
-    """loops ten times waiting 1 second each to give a random float."""
+    """Loops 10 times waiting 1 sec each to give a random float."""
 
-    for _ in range(0, 11):
+    for _ in range(10):
         await asyncio.sleep(1)
-        yield random.uniform(0, 11)
+        yield random.uniform(0, 10)
